@@ -59,5 +59,14 @@ With over 2 million bike share rides in the month of August 2019 in NYC we can b
 * We will want a focused effort advertising to both Male and Female workers who have a commute less than 20 minutes on a bike. 
 * We can create fun routes with points of interest for our locals and tourist to see the city with our bikes on the weekends. 
 
-### For More Visulaization please click the link below to visit my Tableau Public Dashboard to the CitiBike Challenge:
+#### Future visualization suggestions: 
+* How many bikes to we need? 
+  * Create a map showing numbers of bikes used per day per location
+  * How many people are using our "Find-Our-Bike" app and are unable to locate a usable bike?
+* Bike Maintenance.
+  * Create a bar graph utilizing bike identification to show the usage of each bike.
+  * Determine how many miles between scheduled maintenance for each bike. 
+  * Determine how many users between scheduled maintenance for each bike.
+
+### For More Visualization please click the link below to visit my Tableau Public Dashboard to the CitiBike Challenge:
 [link to dashboard] https://public.tableau.com/shared/GH5P4GNC4?:display_count=n&:origin=viz_share_link
