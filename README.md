@@ -70,3 +70,16 @@ With over 2 million bike share rides in the month of August 2019 in NYC we can b
 
 ### For More Visualization please click the link below to visit my Tableau Public Dashboard to the CitiBike Challenge:
 [link to dashboard] https://public.tableau.com/shared/GH5P4GNC4?:display_count=n&:origin=viz_share_link
+
+
+**** 
+### Resources:   
+
+**Data Used:**  
+* 201908-citibike-Tripdata.csv  
+
+**Tools Used:** 
+* Tableau
+* Jupyter Notebooks
+* Python
+* Pandas
