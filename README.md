@@ -3,6 +3,10 @@
 ## Objective: 
 Convince investors that a bike sharing program in Des Moines Iowa is a solid business proposal. Utilizing data from New York City in August 2019 our goal is to show investors the average length of time per ride, the most popular hour(s) of each day of the week, and number of trips for all users and genders for each day of the week. 
 
+### For full visualization please click the link below to visit my Tableau Public Dashboard to the CitiBike Challenge:
+[link to dashboard] https://public.tableau.com/shared/GH5P4GNC4?:display_count=n&:origin=viz_share_link
+
+
 ### Results: 
 
 #### In August 2019 NYC had 2,344,224 users of the bike share program. 
@@ -68,8 +72,6 @@ With over 2 million bike share rides in the month of August 2019 in NYC we can b
   * Determine how many miles between scheduled maintenance for each bike. 
   * Determine how many users between scheduled maintenance for each bike.
 
-### For More Visualization please click the link below to visit my Tableau Public Dashboard to the CitiBike Challenge:
-[link to dashboard] https://public.tableau.com/shared/GH5P4GNC4?:display_count=n&:origin=viz_share_link
 
 
 **** 
